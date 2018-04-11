@@ -50,3 +50,4 @@ _ReSharper.*
 *~
 *.swp
 TestResults
+/src/.vs/

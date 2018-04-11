@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  testweb:
+    image: testweb
+    build:
+      context: .
+      dockerfile: Test Web/Dockerfile
